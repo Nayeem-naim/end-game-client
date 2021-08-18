@@ -1,0 +1,13 @@
+.card-hover{
+  transition: transform .5s;
+  margin: 0 auto;
+}
+.card-hover:hover{
+    transform: scale(1.07);
+    background-color: #00203f;
+    color: #adf0d1;
+    box-shadow: 5px 5px 10px #888888;
+}
+.btn-buy-view{
+    margin-right: 40px;
+}
